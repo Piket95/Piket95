@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piket95
-- 👀 I’m interested in programming and server architecture and infrastructure
-- 🌱 I’m currently learning Python and Laravel
+- 👀 I’m interested in programming, cyber security and server architecture / infrastructure
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: GitHub :D
 
 <!---
