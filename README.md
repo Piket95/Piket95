@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piket95
-- 👀 I’m interested in programming, cyber security and server architecture / infrastructure
+- 👀 I’m interested in programming, cyber security, ui/ux design, devops and server architecture / infrastructure
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: GitHub :D
 
