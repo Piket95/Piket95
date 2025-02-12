@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience.</h3>**
+ **<h3 align="left">🚀 Passionate fullstack web developer. Skilled in both front-end and back-end technologies, with a keen eye for user experience. Also very interested in Dev Ops technologies and dipping my toes in Python sometimes. <br><br> Mostly programming stuff that makes my life easier, like automating tedious and repetitive tasks.</h3>**
  
 <br>
 
