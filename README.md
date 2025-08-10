@@ -42,10 +42,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piket95&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<br>
-
-<a href="https://app.daily.dev/piket95"><img src="https://api.daily.dev/devcards/v2/td8poF11Wrl3sLGN4h0bE.png?type=default&r=5qo" width="356" alt="Dennis's Dev Card"/></a>
-
 <!---
 Piket95/Piket95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
